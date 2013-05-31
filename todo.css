@@ -1,0 +1,54 @@
+html {
+	background-color:#eee;
+}
+
+.container {
+	margin:0 auto;
+	width:80%;
+	font-family: arial, sans-serif;
+}
+
+h1 {
+	color: #666;
+	font-size: 4em;
+}
+
+
+form {
+	display:inline-block;
+}
+
+input {
+	width:450px;
+	height:30px;
+	font-size:1.06em;
+	margin-bottom:30px;
+}
+
+#button {
+	display:inline-block;
+	height:35px;
+	width:100px;
+	background-color:#666;
+	color:#fff;
+	text-align:center;
+	padding-top: 5px;
+	border-radius: 5px;
+	font-family: arial;
+	font-size:1.06;
+	cursor: pointer;
+}
+
+.todoList {
+	font-family:arial;
+	color:#666;
+	font-size:1.5em;
+}
+
+.item {
+	margin-bottom:10px;
+	background-color: #ddd;
+	padding:5px;
+	cursor: pointer;
+}
+
